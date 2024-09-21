@@ -1,0 +1,201 @@
+body {
+  width: 1560px;
+  height: 1123px;
+  top: -54px;
+  left: -65px;
+  gap: 0px;
+  opacity: 0px;
+
+  background-image: url("image/blur-hospital-clinic-interior\ 1.png");
+}
+
+h1 {
+  width: 659px;
+  height: 97px;
+  top: 240px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 96.97px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  color: #4f4a54;
+}
+h3 {
+  width: 633px;
+  height: 74px;
+  top: 337px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 31.66px;
+  text-align: left;
+  color: #db7858;
+}
+k {
+  width: 659px;
+  height: 36px;
+  top: 427px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.36px;
+  text-align: left;
+  color: #0000;
+}
+header {
+  width: 276px;
+  height: 42px;
+  top: 478px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 41.56px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  color: #e94e1b;
+}
+input[type="text"] {
+  width: 164px;
+  height: 16px;
+  top: 542px;
+  left: 112px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: EngraversGothic BT;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 15.96px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #919191;
+  width: 529px;
+  height: 58px;
+  top: 521px;
+  left: 87px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  border: 3px 0px 0px 0px;
+  opacity: 0px;
+  background: #f4f4f480;
+  border: 3px solid #919191;
+}
+input[type="email"] {
+  width: 126px;
+  height: 16px;
+  top: 680px;
+  left: 109px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: EngraversGothic BT;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 15.96px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  background: #919191;
+  width: 529px;
+  height: 58px;
+  top: 659px;
+  left: 87px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  border: 3px 0px 0px 0px;
+  opacity: 0px;
+  background: #f4f4f480;
+  border: 3px solid #919191;
+}
+input[type="submit"] {
+  width: 193px;
+  height: 58px;
+  top: 659px;
+  left: 423px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  background: #e94e1b;
+  width: 134px;
+  height: 65px;
+  top: 673px;
+  left: 453px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30.26px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #ffffff;
+}
+.text-overlay {
+  margin-right: auto;
+  width: 380px;
+  height: 64px;
+  top: 811px;
+  left: 520px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 42.01px;
+  text-align: left;
+
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20.2px;
+  text-align: left;
+}
+/*.container {input-container input[type="email"]
+  width: 1440px;
+  height: 1024px;
+  top: -2882px;
+  left: 16017px;
+  gap: 0px;
+  opacity: 0px;
+}
+.para {
+  width: 659px;
+  height: 97px;
+  top: 240px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 96.97px;
+  letter-spacing: -0.045em;
+  text-align: left;
+  color: #4f4a54;
+}
+.para2 {
+  width: 633px;
+  height: 74px;
+  top: 337px;
+  left: 87px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 31.66px;
+  text-align: left;
+
+  color: #db7858;
+}*/
